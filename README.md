@@ -1,14 +1,12 @@
 # 🚀 Acme Rockets  
 
-**Acme Rockets** is my **first project using Tailwind CSS**, designed to showcase a fictional rocket company. This project helps me learn **Tailwind’s utility-first approach**, build responsive layouts, and improve my frontend development skills.  
+**Acme Rockets** is my **first project using Tailwind CSS**, designed to showcase a fictional rocket company. This project helps me learn **Tailwind’s utility-first approach**, build responsive layouts and improve my frontend development skills.  
 
 ---
 
 ## 🌟 Preview  
 
 ![Acme Rockets Preview](./assets/acme-rockets-preview.png)  
-
-*(Replace this with an actual screenshot of your project.)*  
 
 ---
 
@@ -30,5 +28,5 @@ Ensure you have the following installed before running the project:
 ### **💻 Installation & Setup**  
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-username/acme-rockets.git
+   git clone https://github.com/PrabhjotSinghUbhi/acme-rockets.git
    cd acme-rockets
