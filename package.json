@@ -12,11 +12,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch",
+    "preeti": "npx prettier --write **/*.html"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.0.9",
     "tailwindcss": "^4.0.9"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.6.11"
+  }
 }
