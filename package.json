@@ -1,25 +1,22 @@
 {
-  "name": "acme-rockets",
-  "version": "1.0.0",
-  "description": "Acme Rockets is my first project using Tailwind CSS, designed to showcase a fictional rocket company. This project helps me learn Tailwind’s utility-first approach, build responsive layouts, and improve my frontend skills. Excited to share my journey and progress!",
-  "repository": {
-    "type": "git",
-    "url": "github.com/PrabhjotSinghUbhi/Acme-Rockets-design.git"
-  },
-  "license": "ISC",
-  "author": "Prabhjot Singh",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch",
-    "preeti": "npx prettier --write **/*.html"
-  },
   "dependencies": {
     "@tailwindcss/cli": "^4.0.9",
     "tailwindcss": "^4.0.9"
   },
+  "name": "acme-rockets",
+  "version": "1.0.0",
+  "description": "**Acme Rockets** is my **first project using Tailwind CSS**, designed to showcase a fictional rocket company. This project helps me learn **Tailwind’s utility-first approach**, build responsive layouts and improve my frontend development skills.",
+  "main": "index.js",
   "devDependencies": {
     "prettier-plugin-tailwindcss": "^0.6.11"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch",
+    "prettier" : "npx prettier --write **/*.html"
+  },
+  "keywords": [],
+  "author": "Prabhjot Singh",
+  "license": "ISC",
+  "type": "commonjs"
 }
