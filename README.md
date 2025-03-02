@@ -6,8 +6,14 @@
 
 ## 🌟 Preview  
 
-![Acme Rockets Preview](./assets/acme-rockets-preview.png)  
+### 😇 Desktop view
+![Acme Rockets Preview](src/img/preview1.png)  
+![Acme Rockets Preview](src/img/2.png)  
+![Acme Rockets Preview](src/img/3.png)  
 
+### 😇 Mobile view
+![acme mobile](src/img/4.png)
+![alt text](image.png)
 ---
 
 ## 📌 Features  
